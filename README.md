@@ -69,23 +69,6 @@ O script `banco_dados_r10.py` também permite visualizar os dados importados:
 ```bash
 python scripts/banco_dados_r10.py <diretorio-dos-arquivos>
 ```
-
----
-
-## 📂 Estrutura do Projeto
-
-```
-processador-rfb/
-│
-├── README.md
-├── .env.example
-├── requirements.txt
-├── scripts/
-│   ├── banco_dados_r10.py
-│   ├── extract_r10.py
-
-```
-
 ---
 
 ## ⚠️ Observações
@@ -94,7 +77,4 @@ processador-rfb/
 - Não esqueça de configurar as variáveis de ambiente antes de executar os scripts.
 
 ---
-
-## 📜 Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
